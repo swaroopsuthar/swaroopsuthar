@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroopsuthar&label=Profile%20views&color=0e75b6&style=flat" alt="swaroopsuthar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaroopsuthar" alt="swaroopsuthar" /></a> </p>
-
 - 🔭 I’m currently working on [Laravel Auto CRUD]((comming-soon))
 
 - 🌱 I’m currently learning **Software Architecture**
